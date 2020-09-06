@@ -1,0 +1,28 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="ClassNameCompletion" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
